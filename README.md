@@ -1,7 +1,6 @@
 
 
-[![Image](https://github.com/user-attachments/assets/26ce075a-d079-4ffc-9abc-78de9c6dacb0)
-](https://github.com/user-attachments/assets/b39adda4-466a-4731-9c53-d095e81a8fb3)
+
 
 
 <p align="center">

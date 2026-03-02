@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img scr="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img scr="[https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white)" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />

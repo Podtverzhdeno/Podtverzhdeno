@@ -1,7 +1,6 @@
 
 
-![Work](https://github.com/user-attachments/assets/8a878303-85f7-4018-8bdb-b45053f843a3)
-
+![Image](https://github.com/user-attachments/assets/853f6863-b4f1-49c7-bed2-91282be1fd62)
 
 <p align="center">![Work](https://github.com/user-attachments/assets/01e4e55f-8c87-428e-bec8-0dfb11ce67a2)
 

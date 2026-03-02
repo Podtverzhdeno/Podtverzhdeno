@@ -1,7 +1,7 @@
 
-<image>
-  (https://github.com/user-attachments/assets/853f6863-b4f1-49c7-bed2-91282be1fd62)
-<image>
+<img
+  src="https://github.com/user-attachments/assets/853f6863-b4f1-49c7-bed2-91282be1fd62"
+/>
 <p align="center">![Work](https://github.com/user-attachments/assets/01e4e55f-8c87-428e-bec8-0dfb11ce67a2)
 
   <img src="https://i.pinimg.com/originals/b3/d8/d1/b3d8d1501e8bf377b1ddefaca01c1b75.gif" width="100%" />

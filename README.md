@@ -1,7 +1,6 @@
 
 
-![0302](https://github.com/user-attachments/assets/f8694418-7449-4ed6-845f-266402575f03)
-
+![Image](https://github.com/user-attachments/assets/26ce075a-d079-4ffc-9abc-78de9c6dacb0)
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/b3/d8/d1/b3d8d1501e8bf377b1ddefaca01c1b75.gif" width="100%" />

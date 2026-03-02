@@ -22,5 +22,3 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
-
-https://camo.githubusercontent.com/917e2db4dee1eca1af77ff4cb990ea2f7edf3c952bc92d8da3ecd60d30a0cf8b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974

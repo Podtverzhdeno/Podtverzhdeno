@@ -1,6 +1,6 @@
 
 <image>
-  ![Image](https://github.com/user-attachments/assets/853f6863-b4f1-49c7-bed2-91282be1fd62)
+  (https://github.com/user-attachments/assets/853f6863-b4f1-49c7-bed2-91282be1fd62)
 <image>
 <p align="center">![Work](https://github.com/user-attachments/assets/01e4e55f-8c87-428e-bec8-0dfb11ce67a2)
 

@@ -1,7 +1,4 @@
-
-  ![WorkNeon](https://github.com/user-attachments/assets/dd7b9f7b-71ba-4e57-90e5-c1631494f1c1)
-
-
+https://github.com/user-attachments/assets/3e5aaee9-fb64-465c-b8d5-945f1699fb20
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white" />

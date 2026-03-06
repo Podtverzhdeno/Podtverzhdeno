@@ -1,4 +1,4 @@
-https://github.com/user-attachments/assets/3e5aaee9-fb64-465c-b8d5-945f1699fb20
+![Image](https://github.com/user-attachments/assets/05450764-3afb-4da2-a45c-4de11e2ffb8e)
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white" />

@@ -1,8 +1,5 @@
-![Image](https://github.com/user-attachments/assets/9b6563a3-8f69-4cc6-a8c6-d351f1d7ff15)
-![Image](https://github.com/user-attachments/assets/b2b5b3b6-af36-4ad0-a82b-96bd05f3d889)
-
 <img
-  src="https://github.com/user-attachments/assets/853f6863-b4f1-49c7-bed2-91282be1fd62"
+  ![WorkNeon](https://github.com/user-attachments/assets/dd7b9f7b-71ba-4e57-90e5-c1631494f1c1)
 />
 
 

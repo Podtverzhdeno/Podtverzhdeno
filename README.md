@@ -1,6 +1,5 @@
-<img
+
   ![WorkNeon](https://github.com/user-attachments/assets/dd7b9f7b-71ba-4e57-90e5-c1631494f1c1)
-/>
 
 
 
